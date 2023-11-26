@@ -1,0 +1,13 @@
+
+Recommendation System of Ml and Data Science books from Amazon
+
+Steps Using LangChain
+
+1) Load the CSV file
+2) Split the text
+3) Make a chroma db folder
+4) Create the embedding
+5) Create the vectorstore
+6) Load the vector store
+7) Create a retriever
+8) Create the chain/LLM function 

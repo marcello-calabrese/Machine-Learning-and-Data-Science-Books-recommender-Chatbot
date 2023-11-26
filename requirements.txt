@@ -1,0 +1,13 @@
+chroma-hnswlib==0.7.3
+chromadb==0.4.15
+huggingface-hub==0.17.3
+ipykernel @ file:///D:/bld/ipykernel_1698244157926/work
+ipython @ file:///D:/bld/ipython_1698846796959/work
+langchain==0.0.330
+openai==0.28.1
+pandas==2.1.2
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
+sentence-transformers==2.2.2
+streamlit==1.28.1
+transformers==4.35.0
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
